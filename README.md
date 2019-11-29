@@ -20,5 +20,5 @@ function should be called and the result should be displayed to the user.
 
 • Use JavaFX
 
-• Use the REST function mentioned above
+• Use the REST function created 
 
